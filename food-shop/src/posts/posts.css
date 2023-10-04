@@ -1,0 +1,13 @@
+.posts{
+   
+    width: 385px;
+    margin: 0px 25px 40px 25px;
+   
+}
+.postsimg{
+    width:50%;
+    height:280px;
+    object-fit: cover;
+    border: 7px;
+
+}
